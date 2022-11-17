@@ -10,6 +10,8 @@
     <Using Include="Microsoft.AspNetCore.Mvc" />
   </ItemGroup>
 
-
+  <ItemGroup>
+    <PackageReference Include="MET.Tourism" Version="1.0.0" />
+  </ItemGroup>
 
 </Project>

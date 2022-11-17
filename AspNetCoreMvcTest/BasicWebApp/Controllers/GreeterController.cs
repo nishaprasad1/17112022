@@ -7,7 +7,7 @@ public class GreeterController : Controller
         ViewBag.GuestName = id ?? "Visitor";
         int count = counter.CountNext(id);
         if((count % 2) == 1)
-            return View("Welcome");
+            return View("Welcome"); //renders /Views/Greeter/Welcome.cshtml
         return View("Hello");
     }
 }

@@ -22,3 +22,7 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/DotNet/Platform/Web/AspNetCoreMvcTest/BasicWebApp/Views/Greeter/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JlZXRlclxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/DotNet/Platform/Web/AspNetCoreMvcTest/BasicWebApp/Views/Tour/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

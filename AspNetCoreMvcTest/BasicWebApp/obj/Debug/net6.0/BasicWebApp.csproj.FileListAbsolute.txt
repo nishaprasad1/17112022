@@ -21,3 +21,5 @@ D:\DotNet\Platform\Web\AspNetCoreMvcTest\BasicWebApp\obj\Debug\net6.0\BasicWebAp
 D:\DotNet\Platform\Web\AspNetCoreMvcTest\BasicWebApp\obj\Debug\net6.0\ref\BasicWebApp.dll
 D:\DotNet\Platform\Web\AspNetCoreMvcTest\BasicWebApp\obj\Debug\net6.0\BasicWebApp.RazorAssemblyInfo.cache
 D:\DotNet\Platform\Web\AspNetCoreMvcTest\BasicWebApp\obj\Debug\net6.0\BasicWebApp.RazorAssemblyInfo.cs
+D:\DotNet\Platform\Web\AspNetCoreMvcTest\BasicWebApp\bin\Debug\net6.0\Tourism.dll
+D:\DotNet\Platform\Web\AspNetCoreMvcTest\BasicWebApp\obj\Debug\net6.0\BasicWebApp.csproj.CopyComplete

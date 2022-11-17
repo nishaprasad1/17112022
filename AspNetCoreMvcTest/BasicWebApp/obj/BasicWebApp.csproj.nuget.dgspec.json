@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\DotNet\\Platform\\Web\\AspNetCoreMvcTest\\BasicWebApp\\BasicWebApp.csproj",
         "projectName": "BasicWebApp",
         "projectPath": "D:\\DotNet\\Platform\\Web\\AspNetCoreMvcTest\\BasicWebApp\\BasicWebApp.csproj",
-        "packagesPath": "C:\\Users\\dac38\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\efaculty1\\.nuget\\packages\\",
         "outputPath": "D:\\DotNet\\Platform\\Web\\AspNetCoreMvcTest\\BasicWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dac38\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\efaculty1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MET.Tourism": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
